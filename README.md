@@ -15,4 +15,4 @@ I'm graduated from University of Tehran with a Master of Science in Biotechnolog
 ### Contact me
 To reach me, please contact me on LinkedIn or email me.
 
-[Email](arash.darzian@outlook.com) | [LinkedIn](https://www.linkedin.com/in/arash-darzian)
+<arash.darzian@outlook.com> | [LinkedIn](https://www.linkedin.com/in/arash-darzian)
